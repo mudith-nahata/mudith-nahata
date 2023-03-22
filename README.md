@@ -1,6 +1,6 @@
-<h1 align="center">Hello Everyone  I'm  Mudith Nahata </h1>
-<h3 align="center">An enterpreneur packed by with an Engineering Mind </h3>
+<h1 align="center">Hello Everyone  I'm  Mudith Nahata,An enterpreneur packed by with an Engineering Mind </h1>
  <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/Laharika28/Laharika28/main/cover.gif">
+ <h3 align="center">Mostly You Will See Me Coding DSA in  Python |Aspiring Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mudith-nahata&label=Profile%20views&color=0e75b6&style=flat" alt="mudith-nahata" /> </p>
