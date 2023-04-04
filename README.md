@@ -1,6 +1,6 @@
 ### Hello Everyone, I'm Mudith Nahata, an enterpreneur packed by with an engineering mind<img src="eye-blink.gif" width="30px" height="30px" /><br>
 
-<img src="https://raw.githubusercontent.com/Laharika28/Laharika28/main/cover.gif" width="1000"><br>
+<img src="cover.gif" width="1000"><br>
 
 <p>
   Mostly, you'll see me coding DSA in Python 👩‍💻 , developing web applications 💻 
