@@ -1,9 +1,9 @@
 ### Hello Everyone, I'm Mudith Nahata, an enterpreneur packed by with an engineering mind<img src="eye-blink.gif" width="30px" height="30px" /><br>
 
-<img src="cover.gif" width="1000"><br>
+![cover](https://user-images.githubusercontent.com/96544398/229835515-fce2b5e4-e332-453c-936f-1ae9bdbb69ab.gif)
 
 <p>
-  Mostly, you'll see me coding DSA in Python 👩‍💻 , developing web applications 💻 
+  Mostly, you'll see me coding DSA in Python 👩‍💻 , business Strategy 💻 
 </p>
 
 [![Mudith Nahatas's GitHub stats](https://github-readme-stats.vercel.app/api?username=mudith-nahata)](https://github.com/mudith-nahata/github-readme-stats&show_icons=true&bg_color=#363e7d&title_color=#fff94c&text_color=#9f9f9f&icon_color=#ddd842&border_color=#000000)
