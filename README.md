@@ -1,4 +1,4 @@
-### Hello Everyone, I'm Mudith Nahata, an enterpreneur packed by with an engineering mind<img src="eye-blink.gif" width="30px" height="30px" /><br>
+### Hello Everyone, I'm Mudith Nahata.<img src="eye-blink.gif" width="30px" height="30px" /><br>
 
 <img src="https://user-images.githubusercontent.com/96544398/229838059-27709b89-cb43-4be2-a88d-97a946525607.gif" width="1000"><br>
 
