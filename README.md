@@ -28,7 +28,7 @@
 # :blue_heart: to Build - Data Scientist & Machine Learning Engineer
 
 
-Hey! I'm **Mudith Nahata** — currently pursuing a **Bachelor of Technology in Computer Science with a Specialization in Computer Science and Information Technology**, at Marri Laxman Reddy Institute of Technology and Management, Hyderabad, India. 
+Hey! I'm **Mudith Nahata** — Currently Pursuing a **Bachelor of Technology in Computer Science with a Specialization in Computer Science and Information Technology**, at Marri Laxman Reddy Institute of Technology and Management, Hyderabad, India. 
 I have Explored and excelled in Artificial Intelligence, Machine Learning, Deep Learning for my graduation thesis .I have solid expertise in Data structures and Algorithms, Python and familiar with the various technologies like Natural Language Processing, Large Language Models, Computer Vision etc. I hold a zeal to solve real world problems with **CODE** ![](https://img.icons8.com/ios-filled/15/000000/code.png).
 
 <!-- section - intro -->
