@@ -71,7 +71,7 @@ Microsoft Azure
 ## Experience 👨‍💻
 ⚡️ Data Annotator Intern - [**Koireader Technologies**](https://koireader.com)
 
-⚡️ Web Developer - [**DigitalBuzz Software Pvt Ltd. (NGO)**](https://www.digitalbuzztech.com/)
+⚡️ Web Developer Intern  - [**DigitalBuzz Software Pvt Ltd.**](https://www.digitalbuzztech.com/)
 
 
 
@@ -86,8 +86,6 @@ Microsoft Azure
 
 📈 I _**BUILD**_ resilient applications
 
-🎹 I play Piano at times. You can check out my Piano Covers on my [YouTube Channel](https://www.youtube.com/channel/UC6EZ0xQ3EtBsogS3At_fAFA?view_as=subscriber). 
-
 🍕 Am a _**FOODIE!**_
 
 <!-- section - interests -->
@@ -98,11 +96,9 @@ You can connect with me on ...
 
 <!-- section - social media icons -->
 
-[![website hardiknahata][4.1]][4]
-[![linkedin hardiknahata][1.1]][1]
-[![github hardiknahata][2.1]][2]
-[![twitter hardiknahata][3.1]][3]
-[![email hardiknahata][5.1]][5]
+[![https://www.linkedin.com/in/mudith-nahata-24b525206/][1.1]][1]
+[![https://github.com/mudith-nahata][2.1]][2]
+[![jainmudith2002@gmail.com][5.1]][5]
 
 <!-- section - social media icons -->
 
