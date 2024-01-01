@@ -16,8 +16,9 @@
 
 <!-- links to my social media accounts -->
 
-[1]: https://www.linkedin.com/in/hardiknahata
-[2]: https://www.github.com/hardiknahata
+[1]: https://www.linkedin.com/in/mudith-nahata-24b525206/
+[2]: https://www.github.com/mudith-nahata
+[5]: mailto:jainmudith2002@gmail.com
 
 <!-- section - intro -->
 <!--#### **SDE** @ **HashedIn | Microsoft | ISRO** -->
@@ -93,7 +94,8 @@ You can connect with me on ...
 
 [![https://www.linkedin.com/in/mudith-nahata-24b525206/][1.1]][1]
 [![https://github.com/mudith-nahata/mudith-nahata/][2.1]][2]
-[![jainmudith2002@gmail.com]
+[![jainmudith2002@gmail.com][5.1]][5]
+
 <!-- section - social media icons -->
 
 <p align='center'>
