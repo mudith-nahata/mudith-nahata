@@ -67,7 +67,7 @@ Amazon Web Services (AWS) . Google Cloud Compute (GCP) . Microsoft Azure
 
 ⚡️ Data Annotator Intern - [**Koireader Technologies**](https://koireader.com)
 
-⚡️ Web Developer - [**DigitalBuzz Software Pvt Ltd**](https://www.digitalbuzztech.com/)
+⚡️ Web Developer Intern - [**DigitalBuzz Software Pvt Ltd**](https://www.digitalbuzztech.com/)
 
 
 
