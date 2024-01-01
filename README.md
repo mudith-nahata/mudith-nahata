@@ -16,8 +16,6 @@
 
 [1]: https://www.linkedin.com/in/mudith-nahata-24b525206/
 [2]: https://www.github.com/mudith-nahata
-[3]: https://www.twitter.com/sarcastichardy
-[4]: https://www.hardiknahata.com
 [5]: mailto:jainmudith2002@gmail.com
 
 <!-- section - intro -->
