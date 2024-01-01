@@ -1,4 +1,4 @@
-<!--Credits for template: https://github.com/ombharatiya -->
+
 
 ![mudith nahata bg](https://github.com/mudith-nahata/mudith-nahata/assets/96544398/86dbf1c0-cd0b-401c-9ea2-835a69eafbef)
 
@@ -54,7 +54,7 @@ Hey! I'm **Mudith Nahata** — Currently Pursuing a **Bachelor of Technology in 
 
 <!-- Python . C++ . C . SQL . HTML . CSS . BOOTSTRAP
 
-Pytorch . Keras . Tensorflow . Computer Vision . Natural Language Processing . Deep Learning
+Computer Vision . Natural Language Processing . Deep Learning
 
 Amazon Web Services (AWS) . Google Cloud Compute (GCP) . Microsoft Azure
  -->
@@ -93,8 +93,7 @@ You can connect with me on ...
 
 [![https://www.linkedin.com/in/mudith-nahata-24b525206/][1.1]][1]
 [![https://github.com/mudith-nahata/mudith-nahata/][2.1]][2]
-[![jainmudith2002@gmail.com][5.1]][5]
-
+[![jainmudith2002@gmail.com]
 <!-- section - social media icons -->
 
 <p align='center'>
