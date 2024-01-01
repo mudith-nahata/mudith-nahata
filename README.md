@@ -10,6 +10,8 @@
 
 [1.1]: https://img.icons8.com/color/48/000000/linkedin.png
 [2.1]: https://img.icons8.com/windows/48/000000/github.png
+[5.1]: https://img.icons8.com/cute-clipart/48/000000/email.png
+
 
 
 <!-- links to my social media accounts -->
