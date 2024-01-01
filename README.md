@@ -1,5 +1,3 @@
-
-
 ![mudith nahata bg](https://github.com/mudith-nahata/mudith-nahata/assets/96544398/73ceb2b8-5b2c-4f42-8974-644a0aa51784)
 
 
