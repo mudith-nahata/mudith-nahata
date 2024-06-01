@@ -65,7 +65,7 @@ Amazon Web Services (AWS) . Google Cloud Compute (GCP) . Microsoft Azure
 
 ## Experience 👨‍💻
 
-⚡️ Data Annotator Intern - [**KoiReader Technologies**](https://koireader.com)
+⚡️ Machine Learning Engineer - [**KoiReader Technologies**](https://koireader.com)
 
 ⚡️ Web Developer Intern - [**DigitalBuzz Software Pvt Ltd**](https://www.digitalbuzztech.com/)
 
