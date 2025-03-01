@@ -65,6 +65,8 @@ Amazon Web Services (AWS) . Google Cloud Compute (GCP) . Microsoft Azure
 
 ## Experience 👨‍💻
 
+⚡️ Machine Learning Engineer - [**Transpoze.AI**](https://transpoze.ai/)
+
 ⚡️ Machine Learning Engineer - [**KoiReader Technologies**](https://koireader.com)
 
 ⚡️ Web Developer Intern - [**DigitalBuzz Software Pvt Ltd**](https://www.digitalbuzztech.com/)
