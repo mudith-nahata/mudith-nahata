@@ -1,7 +1,5 @@
 
 
-![mudith nahata bg](https://github.com/mudith-nahata/mudith-nahata/assets/96544398/86dbf1c0-cd0b-401c-9ea2-835a69eafbef)
-
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
